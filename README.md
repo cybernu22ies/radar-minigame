@@ -11,6 +11,6 @@ In your tmx files all walls' tiles should be on a layer named 'walls':
 
 #### Level editor: https://www.mapeditor.org/
 
-### dependencies:
+#### Dependencies:
 - pygame
 - pytmx
